@@ -14,3 +14,4 @@ pytest==8.4.0
 requests==2.32.3
 tzdata==2025.2
 urllib3==2.4.0
+pytest-cov==7.1.0
